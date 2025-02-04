@@ -6,13 +6,13 @@
 ## 🛠️ My Development Toolbelt
 
 ### 📜 Programming Languages
-<a href="https://go.dev/" target="_blank">
+<a href="https://go.dev/" target="_blank" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
 </a>
 
