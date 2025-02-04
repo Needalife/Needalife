@@ -3,7 +3,7 @@
 - ⚙️ Coding in Go, Python, and JavaScript.
 - 🚀 Exploring system architecture and always learning.
 
-## 🛠️ My Development Toolbelt
+## 🛠️ My Toolbelt
 
 ### 📜 Programming Languages
 <span>
