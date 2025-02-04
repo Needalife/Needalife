@@ -6,12 +6,26 @@
 ## 🛠️ My Development Toolbelt
 
 ### 📜 Programming Languages
-[![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)](https://go.dev/)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/)
+<a href="https://go.dev/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin-right:15px;"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:15px;"/>
+</a>
+<a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:15px;"/>
+</a>
 
 ### ⚙️ Technologies
-[![Kafka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg)](https://kafka.apache.org/)
-[![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)](https://redis.io/)
-[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/)
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
+<a href="https://kafka.apache.org/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="margin-right:15px;"/>
+</a>
+<a href="https://redis.io/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin-right:15px;"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right:15px;"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:15px;"/>
+</a>
