@@ -12,13 +12,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
-<a href="https://golang.org" target="_blank">
+<a href="https://golang.org">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/go.svg" alt="Go" width="40" height="40" style="margin-right:10px;"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
 </a>
 <a href="https://nodejs.org" target="_blank">
