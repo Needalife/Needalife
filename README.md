@@ -13,7 +13,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
 <a href="https://golang.org">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/go.svg" alt="Go" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/go.svg" alt="Go" width="40" height="40" style="margin-right:10px fill="#00ADD8";"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/>
