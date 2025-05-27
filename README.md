@@ -1,7 +1,7 @@
 ## 👋 Hi there 
-+👾 I like to build Discord bots and scalable backends.
-+⚙️ Coding in Go, Python, and JavaScript.
-+🚀 Exploring system architecture and always learning.
+✨ I like to build Discord bots and scalable backends. <br>
+⚙️ Coding in Go, Python, and JavaScript. <br>
+🚀 Exploring system architecture and always learning.
 
 ## 🛠️ My Toolbelt
 
