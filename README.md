@@ -1,7 +1,7 @@
 ## 👋 Hi there 
-✨ I like to build Discord bots and scalable backends. <br>
-⚙️ Coding in Go, Python, and JavaScript. <br>
-🚀 Exploring system architecture and always learning.
+✨ I like code golfing. <br>
+⚙️ Go, Python, Javascript is my jam. <br>
+🚀 Drawing system architecture is fun!
 
 ## 🛠️ My Toolbelt
 
