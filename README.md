@@ -1,7 +1,7 @@
-## 👋 Hi there 
-✨ I like code golfing. <br>
-⚙️ Go, Python, Javascript is my jam. <br>
-🚀 Drawing system architecture is fun!
+## Hi there 
+I like code golfing. <br>
+Go, Python, Javascript is my jam. <br>
+Drawing system architecture is fun!
 
 ## 🛠️ My Toolbelt
 
