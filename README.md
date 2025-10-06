@@ -3,9 +3,9 @@ I like code golfing. <br>
 Go, Python, Javascript is my jam. <br>
 Drawing system architecture is fun!
 
-## 🛠️ My Toolbelt
+## My Toolbelt
 
-### 📜 Programming Languages
+### Programming Languages
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@ Drawing system architecture is fun!
 
 
 
-### ⚙️ Technologies
+### Technologies
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&style=flat-square)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square)
