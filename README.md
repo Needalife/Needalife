@@ -27,8 +27,8 @@ Drawing system architecture is fun!
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&style=flat-square)
 
 ### Framework
-[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&style=flat-square)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=flat-square)](#)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&style=flat-square)
 
 ### Deployment
