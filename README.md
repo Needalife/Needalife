@@ -18,8 +18,6 @@ Drawing system architecture is fun!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Java" width="40" height="40"/>
 </span>
 
-
-
 ### Technologies
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&style=flat-square)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&style=flat-square)
