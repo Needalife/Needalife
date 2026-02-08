@@ -1,8 +1,3 @@
-## Hi there 
-I like code golfing. <br>
-Go, Python, PHP is my jam. <br>
-Drawing system architecture is fun!
-
 ## My Toolbelt
 
 ### Programming Languages
